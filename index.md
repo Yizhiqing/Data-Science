@@ -6,4 +6,6 @@
 ## [Math](https://yizhiqing.github.io/Data-Science/math)
 ## MLFlow
 ## Dashboard
+## Business Intelligence
+## Visualization
 ## AI Apps
